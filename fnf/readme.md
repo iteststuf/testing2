@@ -1,2 +1,2 @@
-This game does not belong to me. Credits go to the original creator of this game, Ninjamuffin99 ( https://github.com/ninjamuffin99 ) and the mod creators too.
+This game does not belong to me. Credits go to the original creators, Ninjamuffin99, KawaiSprite, PhantomArcade and EvilSk8r, and also the mod creators.
 
