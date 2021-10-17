@@ -1,1 +1,0 @@
-This mod does not belong to me. Credits go to BrightFyre ( https://github.com/brightfyregit )
