@@ -23480,10 +23480,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "herobrine",
+		"player2": "dad",
 		"player3": "gf",
-		"song": "Danger",
-		"stage": "woods",
+		"song": "Bopeebo",
+		"stage": "stage",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 250,
