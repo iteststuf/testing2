@@ -1,129 +1,129 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Bart.png">
+<TextureAtlas imagePath="BOYFRIEND.png">
 	<!-- Created with Adobe Animate version 20.0.1.19255 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="BartDeadConfirm0000" x="28" y="28" width="401" height="375"/>
-	<SubTexture name="BartDeadConfirm0001" x="28" y="28" width="401" height="375"/>
-	<SubTexture name="BartDeadConfirm0002" x="495" y="28" width="401" height="375"/>
-	<SubTexture name="BartDeadConfirm0003" x="495" y="28" width="401" height="375"/>
-	<SubTexture name="BartDeadConfirm0004" x="962" y="28" width="401" height="375"/>
-	<SubTexture name="BartDeadConfirm0005" x="962" y="28" width="401" height="375"/>
-	<SubTexture name="BartDeadConfirm0006" x="962" y="28" width="401" height="375"/>
-	<SubTexture name="BartDeadConfirm0007" x="962" y="28" width="401" height="375"/>
-	<SubTexture name="BartDeadConfirm0008" x="962" y="28" width="401" height="375"/>
-	<SubTexture name="BartDeadConfirm0009" x="962" y="28" width="401" height="375"/>
-	<SubTexture name="BartDeadLoop0000" x="1429" y="28" width="405" height="366"/>
-	<SubTexture name="BartDeadLoop0001" x="1429" y="28" width="405" height="366"/>
-	<SubTexture name="BartDeadLoop0002" x="1900" y="28" width="405" height="366"/>
-	<SubTexture name="BartDeadLoop0003" x="2371" y="28" width="405" height="366"/>
-	<SubTexture name="BartDeadLoop0004" x="2842" y="28" width="405" height="366"/>
-	<SubTexture name="BartDeadLoop0005" x="3313" y="28" width="405" height="366"/>
-	<SubTexture name="BartDeadLoop0006" x="3784" y="28" width="405" height="366"/>
-	<SubTexture name="BartDeadLoop0007" x="4255" y="28" width="405" height="366"/>
-	<SubTexture name="BartDeadLoop0008" x="4726" y="28" width="405" height="366"/>
-	<SubTexture name="BartDeadLoop0009" x="5197" y="28" width="405" height="366"/>
-	<SubTexture name="BartDeadLoop0010" x="5668" y="28" width="405" height="366"/>
-	<SubTexture name="BartDeadLoop0011" x="6139" y="28" width="405" height="366"/>
-	<SubTexture name="BartDeadLoop0012" x="6610" y="28" width="405" height="366"/>
-	<SubTexture name="BartDeadLoop0013" x="7081" y="28" width="405" height="366"/>
-	<SubTexture name="BartDeadLoop0014" x="7552" y="28" width="405" height="366"/>
-	<SubTexture name="BartDeadLoop0015" x="28" y="469" width="405" height="366"/>
-	<SubTexture name="BartDeadLoop0016" x="499" y="469" width="405" height="366"/>
-	<SubTexture name="BartDeadLoop0017" x="970" y="469" width="405" height="366"/>
-	<SubTexture name="BartDeadLoop0018" x="1441" y="469" width="405" height="366"/>
-	<SubTexture name="BartDeadLoop0019" x="1912" y="469" width="405" height="366"/>
-	<SubTexture name="BartDies0000" x="2383" y="469" width="417" height="373"/>
-	<SubTexture name="BartDies0001" x="2383" y="469" width="417" height="373"/>
-	<SubTexture name="BartDies0002" x="2866" y="469" width="417" height="373"/>
-	<SubTexture name="BartDies0003" x="2866" y="469" width="417" height="373"/>
-	<SubTexture name="BartDies0004" x="3349" y="469" width="417" height="373"/>
-	<SubTexture name="BartDies0005" x="3832" y="469" width="417" height="373"/>
-	<SubTexture name="BartDies0006" x="3832" y="469" width="417" height="373"/>
-	<SubTexture name="BartDies0007" x="3832" y="469" width="417" height="373"/>
-	<SubTexture name="BartDown0000" x="4315" y="469" width="404" height="400"/>
-	<SubTexture name="BartDown0001" x="4315" y="469" width="404" height="400"/>
-	<SubTexture name="BartDown0002" x="4785" y="469" width="404" height="400"/>
-	<SubTexture name="BartDown0003" x="5255" y="469" width="404" height="400"/>
-	<SubTexture name="BartDown0004" x="5725" y="469" width="404" height="400"/>
-	<SubTexture name="BartDown0005" x="5255" y="469" width="404" height="400"/>
-	<SubTexture name="BartDown0006" x="6195" y="469" width="404" height="400"/>
-	<SubTexture name="BartDown0007" x="6195" y="469" width="404" height="400"/>
-	<SubTexture name="BartDown0008" x="6195" y="469" width="404" height="400"/>
-	<SubTexture name="BartDown0009" x="6195" y="469" width="404" height="400"/>
-	<SubTexture name="BartIdle0000" x="6665" y="469" width="392" height="381"/>
-	<SubTexture name="BartIdle0001" x="6665" y="469" width="392" height="381"/>
-	<SubTexture name="BartIdle0002" x="7123" y="469" width="392" height="381"/>
-	<SubTexture name="BartIdle0003" x="7581" y="469" width="392" height="381"/>
-	<SubTexture name="BartIdle0004" x="28" y="935" width="392" height="381"/>
-	<SubTexture name="BartIdle0005" x="486" y="935" width="392" height="381"/>
-	<SubTexture name="BartIdle0006" x="944" y="935" width="392" height="381"/>
-	<SubTexture name="BartIdle0007" x="944" y="935" width="392" height="381"/>
-	<SubTexture name="BartIdle0008" x="944" y="935" width="392" height="381"/>
-	<SubTexture name="BartIdle0009" x="944" y="935" width="392" height="381"/>
-	<SubTexture name="BartLeft0000" x="1402" y="935" width="372" height="406"/>
-	<SubTexture name="BartLeft0001" x="1402" y="935" width="372" height="406"/>
-	<SubTexture name="BartLeft0002" x="1840" y="935" width="372" height="406"/>
-	<SubTexture name="BartLeft0003" x="2278" y="935" width="372" height="406"/>
-	<SubTexture name="BartLeft0004" x="2716" y="935" width="372" height="406"/>
-	<SubTexture name="BartLeft0005" x="3154" y="935" width="372" height="406"/>
-	<SubTexture name="BartLeft0006" x="2278" y="935" width="372" height="406"/>
-	<SubTexture name="BartLeft0007" x="2278" y="935" width="372" height="406"/>
-	<SubTexture name="BartLeft0008" x="2278" y="935" width="372" height="406"/>
-	<SubTexture name="BartLeft0009" x="2278" y="935" width="372" height="406"/>
-	<SubTexture name="BartMissDown0000" x="3592" y="935" width="409" height="367"/>
-	<SubTexture name="BartMissDown0001" x="3592" y="935" width="409" height="367"/>
-	<SubTexture name="BartMissDown0002" x="4067" y="935" width="409" height="367"/>
-	<SubTexture name="BartMissDown0003" x="4542" y="935" width="409" height="367"/>
-	<SubTexture name="BartMissDown0004" x="4542" y="935" width="409" height="367"/>
-	<SubTexture name="BartMissDown0005" x="4542" y="935" width="409" height="367"/>
-	<SubTexture name="BartMissDown0006" x="4542" y="935" width="409" height="367"/>
-	<SubTexture name="BartMissDown0007" x="4542" y="935" width="409" height="367"/>
-	<SubTexture name="BartMissDown0008" x="4542" y="935" width="409" height="367"/>
-	<SubTexture name="BartMissDown0009" x="4542" y="935" width="409" height="367"/>
-	<SubTexture name="BartMissLeft0000" x="5017" y="935" width="365" height="415"/>
-	<SubTexture name="BartMissLeft0001" x="5017" y="935" width="365" height="415"/>
-	<SubTexture name="BartMissLeft0002" x="5448" y="935" width="365" height="415"/>
-	<SubTexture name="BartMissLeft0003" x="5879" y="935" width="365" height="415"/>
-	<SubTexture name="BartMissLeft0004" x="5879" y="935" width="365" height="415"/>
-	<SubTexture name="BartMissLeft0005" x="5879" y="935" width="365" height="415"/>
-	<SubTexture name="BartMissLeft0006" x="5879" y="935" width="365" height="415"/>
-	<SubTexture name="BartMissLeft0007" x="5879" y="935" width="365" height="415"/>
-	<SubTexture name="BartMissLeft0008" x="5879" y="935" width="365" height="415"/>
-	<SubTexture name="BartMissLeft0009" x="5879" y="935" width="365" height="415"/>
-	<SubTexture name="BartMissRight0000" x="6310" y="935" width="390" height="384"/>
-	<SubTexture name="BartMissRight0001" x="6310" y="935" width="390" height="384"/>
-	<SubTexture name="BartMissRight0002" x="6766" y="935" width="390" height="384"/>
-	<SubTexture name="BartMissRight0003" x="7222" y="935" width="390" height="384"/>
-	<SubTexture name="BartMissRight0004" x="7222" y="935" width="390" height="384"/>
-	<SubTexture name="BartMissRight0005" x="7222" y="935" width="390" height="384"/>
-	<SubTexture name="BartMissRight0006" x="7222" y="935" width="390" height="384"/>
-	<SubTexture name="BartMissRight0007" x="7222" y="935" width="390" height="384"/>
-	<SubTexture name="BartMissRight0008" x="7222" y="935" width="390" height="384"/>
-	<SubTexture name="BartMissRight0009" x="7222" y="935" width="390" height="384"/>
-	<SubTexture name="BartMissUp0000" x="7678" y="935" width="415" height="400"/>
-	<SubTexture name="BartMissUp0001" x="7678" y="935" width="415" height="400"/>
-	<SubTexture name="BartMissUp0002" x="28" y="1416" width="415" height="400"/>
-	<SubTexture name="BartMissUp0003" x="509" y="1416" width="415" height="400"/>
-	<SubTexture name="BartMissUp0004" x="509" y="1416" width="415" height="400"/>
-	<SubTexture name="BartMissUp0005" x="509" y="1416" width="415" height="400"/>
-	<SubTexture name="BartMissUp0006" x="509" y="1416" width="415" height="400"/>
-	<SubTexture name="BartMissUp0007" x="509" y="1416" width="415" height="400"/>
-	<SubTexture name="BartMissUp0008" x="509" y="1416" width="415" height="400"/>
-	<SubTexture name="BartMissUp0009" x="509" y="1416" width="415" height="400"/>
-	<SubTexture name="BartRight0000" x="990" y="1416" width="387" height="390"/>
-	<SubTexture name="BartRight0001" x="990" y="1416" width="387" height="390"/>
-	<SubTexture name="BartRight0002" x="1443" y="1416" width="387" height="390"/>
-	<SubTexture name="BartRight0003" x="1896" y="1416" width="387" height="390"/>
-	<SubTexture name="BartRight0004" x="2349" y="1416" width="387" height="390"/>
-	<SubTexture name="BartRight0005" x="2802" y="1416" width="387" height="390"/>
-	<SubTexture name="BartRight0006" x="3255" y="1416" width="387" height="390"/>
-	<SubTexture name="BartRight0007" x="3255" y="1416" width="387" height="390"/>
-	<SubTexture name="BartRight0008" x="3255" y="1416" width="387" height="390"/>
-	<SubTexture name="BartRight0009" x="3255" y="1416" width="387" height="390"/>
-	<SubTexture name="BartScream0000" x="3708" y="1416" width="447" height="379"/>
-	<SubTexture name="BartScream0001" x="3708" y="1416" width="447" height="379"/>
-	<SubTexture name="BartScream0002" x="4221" y="1416" width="447" height="379"/>
-	<SubTexture name="BartScream0003" x="4221" y="1416" width="447" height="379"/>
+	<SubTexture name="BF Dead confirm0000" x="28" y="28" width="401" height="375"/>
+	<SubTexture name="BF Dead confirm0001" x="28" y="28" width="401" height="375"/>
+	<SubTexture name="BF Dead confirm0002" x="495" y="28" width="401" height="375"/>
+	<SubTexture name="BF Dead confirm0003" x="495" y="28" width="401" height="375"/>
+	<SubTexture name="BF Dead confirm0004" x="962" y="28" width="401" height="375"/>
+	<SubTexture name="BF Dead confirm0005" x="962" y="28" width="401" height="375"/>
+	<SubTexture name="BF Dead confirm0006" x="962" y="28" width="401" height="375"/>
+	<SubTexture name="BF Dead confirm0007" x="962" y="28" width="401" height="375"/>
+	<SubTexture name="BF Dead confirm0008" x="962" y="28" width="401" height="375"/>
+	<SubTexture name="BF Dead confirm0009" x="962" y="28" width="401" height="375"/>
+	<SubTexture name="BF Dead Loop0000" x="1429" y="28" width="405" height="366"/>
+	<SubTexture name="BF Dead Loop0001" x="1429" y="28" width="405" height="366"/>
+	<SubTexture name="BF Dead Loop0002" x="1900" y="28" width="405" height="366"/>
+	<SubTexture name="BF Dead Loop0003" x="2371" y="28" width="405" height="366"/>
+	<SubTexture name="BF Dead Loop0004" x="2842" y="28" width="405" height="366"/>
+	<SubTexture name="BF Dead Loop0005" x="3313" y="28" width="405" height="366"/>
+	<SubTexture name="BF Dead Loop0006" x="3784" y="28" width="405" height="366"/>
+	<SubTexture name="BF Dead Loop0007" x="4255" y="28" width="405" height="366"/>
+	<SubTexture name="BF Dead Loop0008" x="4726" y="28" width="405" height="366"/>
+	<SubTexture name="BF Dead Loop0009" x="5197" y="28" width="405" height="366"/>
+	<SubTexture name="BF Dead Loop0010" x="5668" y="28" width="405" height="366"/>
+	<SubTexture name="BF Dead Loop0011" x="6139" y="28" width="405" height="366"/>
+	<SubTexture name="BF Dead Loop0012" x="6610" y="28" width="405" height="366"/>
+	<SubTexture name="BF Dead Loop0013" x="7081" y="28" width="405" height="366"/>
+	<SubTexture name="BF Dead Loop0014" x="7552" y="28" width="405" height="366"/>
+	<SubTexture name="BF Dead Loop0015" x="28" y="469" width="405" height="366"/>
+	<SubTexture name="BF Dead Loop0016" x="499" y="469" width="405" height="366"/>
+	<SubTexture name="BF Dead Loop0017" x="970" y="469" width="405" height="366"/>
+	<SubTexture name="BF Dead Loop0018" x="1441" y="469" width="405" height="366"/>
+	<SubTexture name="BF Dead Loop0019" x="1912" y="469" width="405" height="366"/>
+	<SubTexture name="BF dies0000" x="2383" y="469" width="417" height="373"/>
+	<SubTexture name="BF dies0001" x="2383" y="469" width="417" height="373"/>
+	<SubTexture name="BF dies0002" x="2866" y="469" width="417" height="373"/>
+	<SubTexture name="BF dies0003" x="2866" y="469" width="417" height="373"/>
+	<SubTexture name="BF dies0004" x="3349" y="469" width="417" height="373"/>
+	<SubTexture name="BF dies0005" x="3832" y="469" width="417" height="373"/>
+	<SubTexture name="BF dies0006" x="3832" y="469" width="417" height="373"/>
+	<SubTexture name="BF dies0007" x="3832" y="469" width="417" height="373"/>
+	<SubTexture name="BF NOTE DOWN0000" x="4315" y="469" width="404" height="400"/>
+	<SubTexture name="BF NOTE DOWN0001" x="4315" y="469" width="404" height="400"/>
+	<SubTexture name="BF NOTE DOWN0002" x="4785" y="469" width="404" height="400"/>
+	<SubTexture name="BF NOTE DOWN0003" x="5255" y="469" width="404" height="400"/>
+	<SubTexture name="BF NOTE DOWN0004" x="5725" y="469" width="404" height="400"/>
+	<SubTexture name="BF NOTE DOWN0005" x="5255" y="469" width="404" height="400"/>
+	<SubTexture name="BF NOTE DOWN0006" x="6195" y="469" width="404" height="400"/>
+	<SubTexture name="BF NOTE DOWN0007" x="6195" y="469" width="404" height="400"/>
+	<SubTexture name="BF NOTE DOWN0008" x="6195" y="469" width="404" height="400"/>
+	<SubTexture name="BF NOTE DOWN0009" x="6195" y="469" width="404" height="400"/>
+	<SubTexture name="BF idle dance0000" x="6665" y="469" width="392" height="381"/>
+	<SubTexture name="BF idle dance0001" x="6665" y="469" width="392" height="381"/>
+	<SubTexture name="BF idle dance0002" x="7123" y="469" width="392" height="381"/>
+	<SubTexture name="BF idle dance0003" x="7581" y="469" width="392" height="381"/>
+	<SubTexture name="BF idle dance0004" x="28" y="935" width="392" height="381"/>
+	<SubTexture name="BF idle dance0005" x="486" y="935" width="392" height="381"/>
+	<SubTexture name="BF idle dance0006" x="944" y="935" width="392" height="381"/>
+	<SubTexture name="BF idle dance0007" x="944" y="935" width="392" height="381"/>
+	<SubTexture name="BF idle dance0008" x="944" y="935" width="392" height="381"/>
+	<SubTexture name="BF idle dance0009" x="944" y="935" width="392" height="381"/>
+	<SubTexture name="BF NOTE LEFT0000" x="1402" y="935" width="372" height="406"/>
+	<SubTexture name="BF NOTE LEFT0001" x="1402" y="935" width="372" height="406"/>
+	<SubTexture name="BF NOTE LEFT0002" x="1840" y="935" width="372" height="406"/>
+	<SubTexture name="BF NOTE LEFT0003" x="2278" y="935" width="372" height="406"/>
+	<SubTexture name="BF NOTE LEFT0004" x="2716" y="935" width="372" height="406"/>
+	<SubTexture name="BF NOTE LEFT0005" x="3154" y="935" width="372" height="406"/>
+	<SubTexture name="BF NOTE LEFT0006" x="2278" y="935" width="372" height="406"/>
+	<SubTexture name="BF NOTE LEFT0007" x="2278" y="935" width="372" height="406"/>
+	<SubTexture name="BF NOTE LEFT0008" x="2278" y="935" width="372" height="406"/>
+	<SubTexture name="BF NOTE LEFT0009" x="2278" y="935" width="372" height="406"/>
+	<SubTexture name="BF NOTE DOWN MISS0000" x="3592" y="935" width="409" height="367"/>
+	<SubTexture name="BF NOTE DOWN MISS0001" x="3592" y="935" width="409" height="367"/>
+	<SubTexture name="BF NOTE DOWN MISS0002" x="4067" y="935" width="409" height="367"/>
+	<SubTexture name="BF NOTE DOWN MISS0003" x="4542" y="935" width="409" height="367"/>
+	<SubTexture name="BF NOTE DOWN MISS0004" x="4542" y="935" width="409" height="367"/>
+	<SubTexture name="BF NOTE DOWN MISS0005" x="4542" y="935" width="409" height="367"/>
+	<SubTexture name="BF NOTE DOWN MISS0006" x="4542" y="935" width="409" height="367"/>
+	<SubTexture name="BF NOTE DOWN MISS0007" x="4542" y="935" width="409" height="367"/>
+	<SubTexture name="BF NOTE DOWN MISS0008" x="4542" y="935" width="409" height="367"/>
+	<SubTexture name="BF NOTE DOWN MISS0009" x="4542" y="935" width="409" height="367"/>
+	<SubTexture name="BF NOTE LEFT MISS0000" x="5017" y="935" width="365" height="415"/>
+	<SubTexture name="BF NOTE LEFT MISS0001" x="5017" y="935" width="365" height="415"/>
+	<SubTexture name="BF NOTE LEFT MISS0002" x="5448" y="935" width="365" height="415"/>
+	<SubTexture name="BF NOTE LEFT MISS0003" x="5879" y="935" width="365" height="415"/>
+	<SubTexture name="BF NOTE LEFT MISS0004" x="5879" y="935" width="365" height="415"/>
+	<SubTexture name="BF NOTE LEFT MISS0005" x="5879" y="935" width="365" height="415"/>
+	<SubTexture name="BF NOTE LEFT MISS0006" x="5879" y="935" width="365" height="415"/>
+	<SubTexture name="BF NOTE LEFT MISS0007" x="5879" y="935" width="365" height="415"/>
+	<SubTexture name="BF NOTE LEFT MISS0008" x="5879" y="935" width="365" height="415"/>
+	<SubTexture name="BF NOTE LEFT MISS0009" x="5879" y="935" width="365" height="415"/>
+	<SubTexture name="BF NOTE RIGHT MISS0000" x="6310" y="935" width="390" height="384"/>
+	<SubTexture name="BF NOTE RIGHT MISS0001" x="6310" y="935" width="390" height="384"/>
+	<SubTexture name="BF NOTE RIGHT MISS0002" x="6766" y="935" width="390" height="384"/>
+	<SubTexture name="BF NOTE RIGHT MISS0003" x="7222" y="935" width="390" height="384"/>
+	<SubTexture name="BF NOTE RIGHT MISS0004" x="7222" y="935" width="390" height="384"/>
+	<SubTexture name="BF NOTE RIGHT MISS0005" x="7222" y="935" width="390" height="384"/>
+	<SubTexture name="BF NOTE RIGHT MISS0006" x="7222" y="935" width="390" height="384"/>
+	<SubTexture name="BF NOTE RIGHT MISS0007" x="7222" y="935" width="390" height="384"/>
+	<SubTexture name="BF NOTE RIGHT MISS0008" x="7222" y="935" width="390" height="384"/>
+	<SubTexture name="BF NOTE RIGHT MISS0009" x="7222" y="935" width="390" height="384"/>
+	<SubTexture name="BF NOTE UP MISS0000" x="7678" y="935" width="415" height="400"/>
+	<SubTexture name="BF NOTE UP MISS0001" x="7678" y="935" width="415" height="400"/>
+	<SubTexture name="BF NOTE UP MISS0002" x="28" y="1416" width="415" height="400"/>
+	<SubTexture name="BF NOTE UP MISS0003" x="509" y="1416" width="415" height="400"/>
+	<SubTexture name="BF NOTE UP MISS0004" x="509" y="1416" width="415" height="400"/>
+	<SubTexture name="BF NOTE UP MISS0005" x="509" y="1416" width="415" height="400"/>
+	<SubTexture name="BF NOTE UP MISS0006" x="509" y="1416" width="415" height="400"/>
+	<SubTexture name="BF NOTE UP MISS0007" x="509" y="1416" width="415" height="400"/>
+	<SubTexture name="BF NOTE UP MISS0008" x="509" y="1416" width="415" height="400"/>
+	<SubTexture name="BF NOTE UP MISS0009" x="509" y="1416" width="415" height="400"/>
+	<SubTexture name="BF NOTE RIGHT0000" x="990" y="1416" width="387" height="390"/>
+	<SubTexture name="BF NOTE RIGHT0001" x="990" y="1416" width="387" height="390"/>
+	<SubTexture name="BF NOTE RIGHT0002" x="1443" y="1416" width="387" height="390"/>
+	<SubTexture name="BF NOTE RIGHT0003" x="1896" y="1416" width="387" height="390"/>
+	<SubTexture name="BF NOTE RIGHT0004" x="2349" y="1416" width="387" height="390"/>
+	<SubTexture name="BF NOTE RIGHT0005" x="2802" y="1416" width="387" height="390"/>
+	<SubTexture name="BF NOTE RIGHT0006" x="3255" y="1416" width="387" height="390"/>
+	<SubTexture name="BF NOTE RIGHT0007" x="3255" y="1416" width="387" height="390"/>
+	<SubTexture name="BF NOTE RIGHT0008" x="3255" y="1416" width="387" height="390"/>
+	<SubTexture name="BF NOTE RIGHT0009" x="3255" y="1416" width="387" height="390"/>
+	<SubTexture name="BFScream0000" x="3708" y="1416" width="447" height="379"/>
+	<SubTexture name="BFScream0001" x="3708" y="1416" width="447" height="379"/>
+	<SubTexture name="BFScream0002" x="4221" y="1416" width="447" height="379"/>
+	<SubTexture name="BFScream0003" x="4221" y="1416" width="447" height="379"/>
 	<SubTexture name="BartScream0004" x="4734" y="1416" width="447" height="379"/>
 	<SubTexture name="BartScream0005" x="4734" y="1416" width="447" height="379"/>
 	<SubTexture name="BartScream0006" x="5247" y="1416" width="447" height="379"/>
@@ -144,14 +144,14 @@
 	<SubTexture name="BartScream0021" x="1054" y="1882" width="447" height="379"/>
 	<SubTexture name="BartScream0022" x="1567" y="1882" width="447" height="379"/>
 	<SubTexture name="BartScream0023" x="1567" y="1882" width="447" height="379"/>
-	<SubTexture name="BartUp0000" x="2080" y="1882" width="405" height="405"/>
-	<SubTexture name="BartUp0001" x="2080" y="1882" width="405" height="405"/>
-	<SubTexture name="BartUp0002" x="2551" y="1882" width="405" height="405"/>
-	<SubTexture name="BartUp0003" x="3022" y="1882" width="405" height="405"/>
-	<SubTexture name="BartUp0004" x="3493" y="1882" width="405" height="405"/>
-	<SubTexture name="BartUp0005" x="3964" y="1882" width="405" height="405"/>
-	<SubTexture name="BartUp0006" x="4435" y="1882" width="405" height="405"/>
-	<SubTexture name="BartUp0007" x="4435" y="1882" width="405" height="405"/>
-	<SubTexture name="BartUp0008" x="4435" y="1882" width="405" height="405"/>
-	<SubTexture name="BartUp0009" x="4435" y="1882" width="405" height="405"/>
+	<SubTexture name="BF NOTE UP0000" x="2080" y="1882" width="405" height="405"/>
+	<SubTexture name="BF NOTE UP0001" x="2080" y="1882" width="405" height="405"/>
+	<SubTexture name="BF NOTE UP0002" x="2551" y="1882" width="405" height="405"/>
+	<SubTexture name="BF NOTE UP0003" x="3022" y="1882" width="405" height="405"/>
+	<SubTexture name="BF NOTE UP0004" x="3493" y="1882" width="405" height="405"/>
+	<SubTexture name="BF NOTE UP0005" x="3964" y="1882" width="405" height="405"/>
+	<SubTexture name="BF NOTE UP0006" x="4435" y="1882" width="405" height="405"/>
+	<SubTexture name="BF NOTE UP0007" x="4435" y="1882" width="405" height="405"/>
+	<SubTexture name="BF NOTE UP0008" x="4435" y="1882" width="405" height="405"/>
+	<SubTexture name="BF NOTE UP0009" x="4435" y="1882" width="405" height="405"/>
 </TextureAtlas>
