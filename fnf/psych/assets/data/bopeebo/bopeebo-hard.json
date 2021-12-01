@@ -6865,10 +6865,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "homer",
+		"player2": "dad",
 		"player3": "gf",
 		"song": "Boogie-man",
-		"stage": "boogieground",
+		"stage": "stage",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 164,
